@@ -7,24 +7,43 @@ O **Series Journal** é um sistema de gerenciamento de séries desenvolvido como
 ## 📁 Estrutura do projeto
 
 src/
+<br>
 ├── components/
+<br>
 │   ├── NavBar/
-│   │   ├── NavBar.jsx      # Navegação principal
+<br>
+│   │   ├── NavBar.jsx    
+<br>
 │   │   └── NavBar.css
+<br>
 │   ├── SerieForm/
-│   │   ├── SerieForm.jsx   # Formulário de cadastro/edição
+<br>
+│   │   ├── SerieForm.jsx  
+<br>
 │   │   └── SerieForm.css
+<br>
 │   └── SerieList/
-│       ├── SerieList.jsx   # Listagem de séries
+<br>
+│       ├── SerieList.jsx
+<br>
 │       └── SerieList.css
+<br>
 ├── pages/
-│   ├── Home.jsx            # Página inicial
-│   ├── About.jsx           # Página "Sobre"
-│   ├── Register.jsx        # Página de cadastro
-│   └── List.jsx            # Página de listagem
-├── App.jsx                 # Componente principal
+<br>
+│   ├── Home.jsx
+<br>
+│   ├── About.jsx 
+<br>
+│   ├── Register.jsx        
+<br>
+│   └── List.jsx  
+<br>
+├── App.jsx
+<br>
 ├── App.css
+<br>
 ├── index.js
+<br>
 └── index.css
 
 ## 📸 Capturas de tela
